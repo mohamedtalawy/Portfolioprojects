@@ -1,2 +1,2 @@
 # Portfolioprojects
-SQL program to exploring the covid datasets (deaths-vaccinations)
+Some of my data analysis projects 
